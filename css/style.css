@@ -315,3 +315,13 @@ footer ul {
         grid-row: 1/2;
     }
 }
+
+@media (max-width: 800px) {
+    #contact {
+        width: 250px;
+        color: green;
+        text-align: center;
+        margin: 0 auto;
+        padding: 4rem 0;
+    }
+}
